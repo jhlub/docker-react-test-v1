@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>Hi there! Changed!!!</p>
         <p>Yupi!</p>
+        <p>And the feature is: feature/new-elegant-text!</p>
         <a
           className='App-link'
           href='https://reactjs.org'
